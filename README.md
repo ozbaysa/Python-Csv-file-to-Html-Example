@@ -7,4 +7,4 @@ This is an example for how to create html file from csv file with python
 
 3- Enjoy
 
-Made with love
+Made with :heart:
